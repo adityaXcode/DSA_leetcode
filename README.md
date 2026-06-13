@@ -19,6 +19,7 @@ que sloving
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/adityaXcode/DSA_leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/adityaXcode/DSA_leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,4 +28,8 @@ que sloving
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/adityaXcode/DSA_leetcode/tree/main/0509-fibonacci-number/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0746-min-cost-climbing-stairs](https://github.com/adityaXcode/DSA_leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
