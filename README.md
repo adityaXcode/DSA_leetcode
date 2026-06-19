@@ -40,8 +40,10 @@ que sloving
 | [0213-house-robber-ii](https://github.com/adityaXcode/DSA_leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/adityaXcode/DSA_leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/adityaXcode/DSA_leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/adityaXcode/DSA_leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/adityaXcode/DSA_leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/adityaXcode/DSA_leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 <!---LeetCode Topics End-->
