@@ -6,6 +6,7 @@ que sloving
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/adityaXcode/DSA_leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/adityaXcode/DSA_leetcode/tree/main/0125-valid-palindrome/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -36,6 +37,7 @@ que sloving
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/adityaXcode/DSA_leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0198-house-robber](https://github.com/adityaXcode/DSA_leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/adityaXcode/DSA_leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/adityaXcode/DSA_leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -46,4 +48,8 @@ que sloving
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/adityaXcode/DSA_leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/adityaXcode/DSA_leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/adityaXcode/DSA_leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
