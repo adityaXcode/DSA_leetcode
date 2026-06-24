@@ -3,17 +3,14 @@ class Solution {
         int dp[][]= new int[m][n];
         for(int i=0; i<m; i++){
             for(int j=0; j<n; j++){
-                dp[i][j]= -1;
+                if(i==0 || j==0){
+                    dp[i][j]=1; // cause first row and first column me kahin bhi chale jao wahan tak jaane ka no of ways ek hi hai so dp ke andar us block ki value bhi 1 hi ho jaegi , uske baad baaki kisi block pe jaane ki value is sum of uske upar aaur left wale block ki value ka sum.
+                }
+                else{
+                    dp[i][j]= dp[i-1][j]+ dp[i][j-1];
+                }
             }
         }
-        return ways(0,0,m,n,dp);
+        return dp[m-1][n-1];
     }
-    public int ways(int row, int col, Integer m, Integer n, int dp[][]){
-        if(row>=m || col>=n) return 0; // cause grid starts from 0,0 and not from 1,1
-        if(row==m-1 && col==n-1) return 1; // even if we are at destination then there is still 1 way to reach there.
-        if(dp[row][col] != -1) return dp[row][col];
-        int rightways= ways(row, col+1, m, n, dp);
-        int downways= ways(row+1, col, m, n, dp);
-        return dp[row][col]= rightways+downways;
-    } 
 }
