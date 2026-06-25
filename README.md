@@ -29,6 +29,7 @@ que sloving
 | [0213-house-robber-ii](https://github.com/adityaXcode/DSA_leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/adityaXcode/DSA_leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/adityaXcode/DSA_leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/adityaXcode/DSA_leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,6 +48,7 @@ que sloving
 | [0198-house-robber](https://github.com/adityaXcode/DSA_leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/adityaXcode/DSA_leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/adityaXcode/DSA_leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/adityaXcode/DSA_leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/adityaXcode/DSA_leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/adityaXcode/DSA_leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Prefix Sum
@@ -70,4 +72,5 @@ que sloving
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/adityaXcode/DSA_leetcode/tree/main/0064-minimum-path-sum/) | Medium |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/adityaXcode/DSA_leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 <!---LeetCode Topics End-->
