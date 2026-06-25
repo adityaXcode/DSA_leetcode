@@ -23,6 +23,7 @@ que sloving
 | ------- | ------- |
 | [0055-jump-game](https://github.com/adityaXcode/DSA_leetcode/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/adityaXcode/DSA_leetcode/tree/main/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/adityaXcode/DSA_leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/adityaXcode/DSA_leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/adityaXcode/DSA_leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/adityaXcode/DSA_leetcode/tree/main/0198-house-robber/) | Medium |
@@ -43,6 +44,7 @@ que sloving
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/adityaXcode/DSA_leetcode/tree/main/0055-jump-game/) | Medium |
+| [0063-unique-paths-ii](https://github.com/adityaXcode/DSA_leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/adityaXcode/DSA_leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/adityaXcode/DSA_leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0198-house-robber](https://github.com/adityaXcode/DSA_leetcode/tree/main/0198-house-robber/) | Medium |
@@ -71,6 +73,7 @@ que sloving
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0063-unique-paths-ii](https://github.com/adityaXcode/DSA_leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/adityaXcode/DSA_leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/adityaXcode/DSA_leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 <!---LeetCode Topics End-->
