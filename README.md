@@ -49,6 +49,7 @@ que sloving
 | [0088-merge-sorted-array](https://github.com/adityaXcode/DSA_leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0198-house-robber](https://github.com/adityaXcode/DSA_leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/adityaXcode/DSA_leetcode/tree/main/0213-house-robber-ii/) | Medium |
+| [0414-third-maximum-number](https://github.com/adityaXcode/DSA_leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/adityaXcode/DSA_leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/adityaXcode/DSA_leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/adityaXcode/DSA_leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -62,6 +63,7 @@ que sloving
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/adityaXcode/DSA_leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0414-third-maximum-number](https://github.com/adityaXcode/DSA_leetcode/tree/main/0414-third-maximum-number/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
