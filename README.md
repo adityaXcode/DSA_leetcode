@@ -8,6 +8,7 @@ que sloving
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/adityaXcode/DSA_leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/adityaXcode/DSA_leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/adityaXcode/DSA_leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +52,7 @@ que sloving
 | [0213-house-robber-ii](https://github.com/adityaXcode/DSA_leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0414-third-maximum-number](https://github.com/adityaXcode/DSA_leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/adityaXcode/DSA_leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/adityaXcode/DSA_leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/adityaXcode/DSA_leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/adityaXcode/DSA_leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/adityaXcode/DSA_leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -64,6 +66,7 @@ que sloving
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/adityaXcode/DSA_leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0414-third-maximum-number](https://github.com/adityaXcode/DSA_leetcode/tree/main/0414-third-maximum-number/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/adityaXcode/DSA_leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
