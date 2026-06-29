@@ -13,6 +13,7 @@ que sloving
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/adityaXcode/DSA_leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adityaXcode/DSA_leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +57,7 @@ que sloving
 | [1277-count-square-submatrices-with-all-ones](https://github.com/adityaXcode/DSA_leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/adityaXcode/DSA_leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/adityaXcode/DSA_leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adityaXcode/DSA_leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
