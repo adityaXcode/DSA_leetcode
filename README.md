@@ -21,6 +21,7 @@ que sloving
 | [0070-climbing-stairs](https://github.com/adityaXcode/DSA_leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0279-perfect-squares](https://github.com/adityaXcode/DSA_leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0509-fibonacci-number](https://github.com/adityaXcode/DSA_leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/adityaXcode/DSA_leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,4 +90,8 @@ que sloving
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0279-perfect-squares](https://github.com/adityaXcode/DSA_leetcode/tree/main/0279-perfect-squares/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/adityaXcode/DSA_leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
