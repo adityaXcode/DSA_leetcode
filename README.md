@@ -13,6 +13,7 @@ que sloving
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/adityaXcode/DSA_leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0796-rotate-string](https://github.com/adityaXcode/DSA_leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adityaXcode/DSA_leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -94,4 +95,8 @@ que sloving
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/adityaXcode/DSA_leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/adityaXcode/DSA_leetcode/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
