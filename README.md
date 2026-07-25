@@ -22,6 +22,7 @@ que sloving
 | [0070-climbing-stairs](https://github.com/adityaXcode/DSA_leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0279-perfect-squares](https://github.com/adityaXcode/DSA_leetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0509-fibonacci-number](https://github.com/adityaXcode/DSA_leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/adityaXcode/DSA_leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/adityaXcode/DSA_leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -73,6 +74,7 @@ que sloving
 | [0088-merge-sorted-array](https://github.com/adityaXcode/DSA_leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0414-third-maximum-number](https://github.com/adityaXcode/DSA_leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/adityaXcode/DSA_leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/adityaXcode/DSA_leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
