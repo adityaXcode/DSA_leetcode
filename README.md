@@ -62,6 +62,7 @@ que sloving
 | [0746-min-cost-climbing-stairs](https://github.com/adityaXcode/DSA_leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/adityaXcode/DSA_leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/adityaXcode/DSA_leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityaXcode/DSA_leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/adityaXcode/DSA_leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/adityaXcode/DSA_leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adityaXcode/DSA_leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -77,6 +78,7 @@ que sloving
 | [0414-third-maximum-number](https://github.com/adityaXcode/DSA_leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityaXcode/DSA_leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/adityaXcode/DSA_leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityaXcode/DSA_leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/adityaXcode/DSA_leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -104,4 +106,8 @@ que sloving
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/adityaXcode/DSA_leetcode/tree/main/0796-rotate-string/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityaXcode/DSA_leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
