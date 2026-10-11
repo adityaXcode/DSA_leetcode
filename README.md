@@ -28,6 +28,7 @@ que sloving
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/adityaXcode/DSA_leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/adityaXcode/DSA_leetcode/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/adityaXcode/DSA_leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/adityaXcode/DSA_leetcode/tree/main/0063-unique-paths-ii/) | Medium |
@@ -51,6 +52,7 @@ que sloving
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/adityaXcode/DSA_leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/adityaXcode/DSA_leetcode/tree/main/0055-jump-game/) | Medium |
 | [0063-unique-paths-ii](https://github.com/adityaXcode/DSA_leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/adityaXcode/DSA_leetcode/tree/main/0064-minimum-path-sum/) | Medium |
@@ -110,4 +112,8 @@ que sloving
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adityaXcode/DSA_leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/adityaXcode/DSA_leetcode/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
