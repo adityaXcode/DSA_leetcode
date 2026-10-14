@@ -116,4 +116,8 @@ que sloving
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/adityaXcode/DSA_leetcode/tree/main/0053-maximum-subarray/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/adityaXcode/DSA_leetcode/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
