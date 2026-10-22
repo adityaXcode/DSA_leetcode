@@ -13,6 +13,7 @@ que sloving
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/adityaXcode/DSA_leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/adityaXcode/DSA_leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0796-rotate-string](https://github.com/adityaXcode/DSA_leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/adityaXcode/DSA_leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 ## Math
@@ -77,6 +78,7 @@ que sloving
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/adityaXcode/DSA_leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0242-valid-anagram](https://github.com/adityaXcode/DSA_leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0414-third-maximum-number](https://github.com/adityaXcode/DSA_leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityaXcode/DSA_leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/adityaXcode/DSA_leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -131,4 +133,8 @@ que sloving
 | [0596-classes-with-at-least-5-students](https://github.com/adityaXcode/DSA_leetcode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/adityaXcode/DSA_leetcode/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1683-invalid-tweets](https://github.com/adityaXcode/DSA_leetcode/tree/main/1683-invalid-tweets/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/adityaXcode/DSA_leetcode/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
