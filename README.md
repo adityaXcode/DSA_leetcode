@@ -126,4 +126,5 @@ que sloving
 | [0183-customers-who-never-order](https://github.com/adityaXcode/DSA_leetcode/tree/main/0183-customers-who-never-order/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/adityaXcode/DSA_leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/adityaXcode/DSA_leetcode/tree/main/0511-game-play-analysis-i/) | Easy |
+| [1683-invalid-tweets](https://github.com/adityaXcode/DSA_leetcode/tree/main/1683-invalid-tweets/) | Easy |
 <!---LeetCode Topics End-->
