@@ -135,6 +135,7 @@ que sloving
 | [0595-big-countries](https://github.com/adityaXcode/DSA_leetcode/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/adityaXcode/DSA_leetcode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0607-sales-person](https://github.com/adityaXcode/DSA_leetcode/tree/main/0607-sales-person/) | Easy |
+| [0610-triangle-judgement](https://github.com/adityaXcode/DSA_leetcode/tree/main/0610-triangle-judgement/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/adityaXcode/DSA_leetcode/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1683-invalid-tweets](https://github.com/adityaXcode/DSA_leetcode/tree/main/1683-invalid-tweets/) | Easy |
 ## Hash Table
