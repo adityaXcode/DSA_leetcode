@@ -137,6 +137,7 @@ que sloving
 | [0607-sales-person](https://github.com/adityaXcode/DSA_leetcode/tree/main/0607-sales-person/) | Easy |
 | [0610-triangle-judgement](https://github.com/adityaXcode/DSA_leetcode/tree/main/0610-triangle-judgement/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/adityaXcode/DSA_leetcode/tree/main/1484-group-sold-products-by-the-date/) | Easy |
+| [1527-patients-with-a-condition](https://github.com/adityaXcode/DSA_leetcode/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1683-invalid-tweets](https://github.com/adityaXcode/DSA_leetcode/tree/main/1683-invalid-tweets/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
