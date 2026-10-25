@@ -138,6 +138,7 @@ que sloving
 | [0610-triangle-judgement](https://github.com/adityaXcode/DSA_leetcode/tree/main/0610-triangle-judgement/) | Easy |
 | [0619-biggest-single-number](https://github.com/adityaXcode/DSA_leetcode/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/adityaXcode/DSA_leetcode/tree/main/0620-not-boring-movies/) | Easy |
+| [0627-swap-sex-of-employees](https://github.com/adityaXcode/DSA_leetcode/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/adityaXcode/DSA_leetcode/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/adityaXcode/DSA_leetcode/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1683-invalid-tweets](https://github.com/adityaXcode/DSA_leetcode/tree/main/1683-invalid-tweets/) | Easy |
