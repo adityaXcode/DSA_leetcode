@@ -140,6 +140,7 @@ que sloving
 | [0620-not-boring-movies](https://github.com/adityaXcode/DSA_leetcode/tree/main/0620-not-boring-movies/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/adityaXcode/DSA_leetcode/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/adityaXcode/DSA_leetcode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
+| [1075-project-employees-i](https://github.com/adityaXcode/DSA_leetcode/tree/main/1075-project-employees-i/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/adityaXcode/DSA_leetcode/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/adityaXcode/DSA_leetcode/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1683-invalid-tweets](https://github.com/adityaXcode/DSA_leetcode/tree/main/1683-invalid-tweets/) | Easy |
